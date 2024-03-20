@@ -187,7 +187,7 @@ input[type="email"]::placeholder {
   }
 
   .form-row .instructions {
-    margin-left: 120px;
+    margin-left: 150px;
   }
 
   .form-row .checkbox-label {
@@ -241,3 +241,4 @@ input[type="email"]::placeholder {
     height: 15%;
   }
 }
+
